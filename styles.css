@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+}
+
+li{
+  line-height: 1.5;
+  list-style-type: none;
+}
+body, html{
+  font-family: Sans-serif;
+  color: white;
+  width: 100%;
+  background-color: black;
+}
+
+.profile-picture{
+  position: absolute;
+  border: 10px solid #333;
+  bottom: 430px;
+  left: 0;
+  margin: auto;
+  border-radius: 50%;
+  width: 60%;
+}
+
+
+.content{
+  margin-left: 20px;
+  margin-top: 60px;
+}
+
+.span{
+  color: white;
+  opacity: 0.7;
+}
+
+button{
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  height: 40px;
+  margin-right: 10px;
+  width: 100px;
+}
+.btn1{
+  background-color: blue;
+}
+.btn2{
+  background-color: #333;
+}
+.parentbtn{
+  margin-top: 30px;
+}
+
+hr{
+  margin-top: 20px;
+}
+
+.details{
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.lastbtn{
+  text-align: center; 
+  display: block; 
+  width: 330px;
+  margin-top: 20px;
+  background-color: blue; 
+}
